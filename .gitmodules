@@ -1,0 +1,6 @@
+[submodule "CH32V003"]
+	path = CH32V003
+	url = git@github.com:viys/CH32V003.git
+[submodule "CH58x"]
+	path = CH58x
+	url = git@github.com:viys/CH58x.git
