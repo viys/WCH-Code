@@ -11,7 +11,7 @@
 - 💜[CH32V003](https://github.com/viys/CH32V003) -- CH32V003
 
 ### [32位低功耗蓝牙系列MCU](https://www.wch.cn/products/productsCenter/mcuInterface?categoryId=74)
-- 💜[CH58x](https://github.com/viys/CH58x) -- CH32V003
+- 💜[CH58x](https://github.com/viys/CH58x) -- CH58x
 
 ### 官方资料
 - #### 📖[选型手册](https://special.wch.cn/zh_cn/mcu/)
